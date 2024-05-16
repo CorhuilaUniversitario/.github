@@ -30,6 +30,9 @@ En este espacio encontrarán mis proyectos universitarios de cada semestre cursa
 ### Cuarto Semestre
 * Programación III
     - [Repositorio Angular Frontend](https://github.com/CorhuilaUniversitario/Angular-Frontend.git)
+    
+* Analisís de Sistemas
+    - [Repositorio Diagrama de Clases](https://github.com/CorhuilaUniversitario/Diagrama-Clases.git)
 
 
 ## 📒 Contáctame
